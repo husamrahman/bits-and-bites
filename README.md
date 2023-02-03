@@ -62,5 +62,5 @@ Current things I'm working on
 
 ### \{ Contact \} \-------------------------------
 
-LinkedIn: www.linkedin.com/in/husam-rahman
-Email: husam@bitsandbites.io
+- LinkedIn: www.linkedin.com/in/husam-rahman
+- Email: husam@bitsandbites.io
