@@ -2,7 +2,7 @@
 
 Glad to have you on board. If we haven't met before in person, I look forward to grabbing coffee one day ☕️
 
- This newsletter is just a documentation of things I'm learning and figuring out as I navigate the software world and the journey of building a tech startup with random pastries sprinkled in.
+This newsletter is just a documentation of things I'm learning and figuring out as I navigate the world of software and the journey of building a tech startup with pastries sprinkled in.
 ### \{ Summary \} \-----------------------------
 
 - #### **[ Personal ]**
