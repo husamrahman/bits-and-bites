@@ -61,6 +61,5 @@ Current things I'm working on
 
 #### \{ Contact \} \-------------------------------
 
-LinkedIn: [www.linkedin.com/in/husam-rahman]
-Email: []
-Github: [https://github.com/husamrahman]
+LinkedIn: www.linkedin.com/in/husam-rahman
+Email: husam@bitsandbites.io
