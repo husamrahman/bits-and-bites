@@ -19,7 +19,7 @@ Glad to have you on board. If we haven't met before in person, I look forward to
 - #### **[ Final Notes ]**
     - I am not a professional writer so please overlook any grammar issues
     - I really appreciate you subscribing and taking a couple of minutes out of your week to read through
-    - Feel free to reach out if you have any questions, feedback, thoughts, anything really ✌️😊
+    - Feel free to reach out if you have any questions, feedback, thoughts or anything really ✌️😊
 
 <br />
 
@@ -49,10 +49,11 @@ This will most likely be a random photo of a pastry I had this week 🥐 (yep we
 
 ### \{ Reference Bits \} \-----------------------
 
-
 Current things I'm working on
 
-- #### ➡️ **Findur:** Find your next home 10x faster  [https://findur.io]
+- #### ➡️ **Findur:**
+    - Find your next home 10x faster: [https://findur.io]
+    - Journey of Findur: [https://findur.journey.io/p/83763d]
 - #### 📧 **Bits & Bites**: This newsletter
     - Newsletter: [https://buttondown.email/bitsandbites]
     - Github: [https://github.com/husamrahman/bits-and-bites]
