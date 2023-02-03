@@ -14,7 +14,7 @@ This newsletter is just a documentation of things I'm learning and figuring out 
     - Curious Learner & creative problem solver
     - Self-taught developer
     - Background in Petroleum Engineering & Data Science
-- #### **[ 👨‍💻 & 🍪 his Newsletter ]**
+- #### **[ 👨‍💻 & 🍪 This Newsletter ]**
     - Bits = computer bits = tech/coding (get it? 😅)
     - Bites = all things food, mainly pastries
 - #### **[ ✌️😊  Final Notes ]**
@@ -55,7 +55,7 @@ Current things I'm working on
 #### ➡️ **Findur:**
 - Find your next home 10x faster: [https://findur.io]
 - Journey of Findur: [https://findur.journey.io/p/83763d]
-#### 📧 **Bits & Bites**: This newsletter
+#### 📧 **Bits & Bites**:
 - Newsletter: [https://buttondown.email/bitsandbites]
 - Github: [https://github.com/husamrahman/bits-and-bites]
 
