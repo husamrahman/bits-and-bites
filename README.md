@@ -51,12 +51,12 @@ This will most likely be a random photo of a pastry I had this week 🥐 (yep we
 
 Current things I'm working on
 
-- #### ➡️ **Findur:**
-    - Find your next home 10x faster: [https://findur.io]
-    - Journey of Findur: [https://findur.journey.io/p/83763d]
-- #### 📧 **Bits & Bites**: This newsletter
-    - Newsletter: [https://buttondown.email/bitsandbites]
-    - Github: [https://github.com/husamrahman/bits-and-bites]
+#### ➡️ **Findur:**
+- Find your next home 10x faster: [https://findur.io]
+- Journey of Findur: [https://findur.journey.io/p/83763d]
+#### 📧 **Bits & Bites**: This newsletter
+- Newsletter: [https://buttondown.email/bitsandbites]
+- Github: [https://github.com/husamrahman/bits-and-bites]
 
 <br />
 
