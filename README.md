@@ -12,12 +12,12 @@ Glad to have you on board. If we haven't met before in person, I look forward to
 - **[ Work ]**
     - 🧐 Curious Learner & creative problem solver
     - 🧑‍💻 Self-taught developer
-    - 🏫 Background in Petroleum Engineer + Data Science
+    - 🏫 Background in Petroleum Engineering & Data Science
 - **[ This Newsletter ]**
-    - 👨‍💻 Bits = computer bits = tech/coding (pun intended, get it?)
+    - 👨‍💻 Bits = computer bits = tech/coding (get it? 😅)
     - 🍪 Bites = all things food, mainly pastries
 - **[ Final Notes ]**
-    - I am not a professional writer so please overlook ignore any grammar issues
+    - I am not a professional writer so please overlook any grammar issues
     - I really appreciate you subscribing and taking a couple of minutes out of your week to read through
     - Feel free to reach out if you have any questions, feedback, thoughts, anything really ✌️😊
 
@@ -25,6 +25,7 @@ Glad to have you on board. If we haven't met before in person, I look forward to
 
 > This will most likely change with future iterations but this the current structure of the newsletter ⬇️
 
+<br />
 
 #### \{ The Bits & Bites \} \-----------------------
 **[ 👨‍💻 Bits ]**
@@ -42,7 +43,7 @@ const withSomeCode: Maybe<string> = 'sometimes'
 **[ 🍪 Bites ]**
 
 
-This will most likely be a random photo of a pastry I had this week (yep weekly) 🥐
+This will most likely be a random photo of a pastry I had this week 🥐 (yep weekly)
 
 <br />
 
@@ -59,3 +60,7 @@ Current things I'm working on
 <br />
 
 #### \{ Contact \} \-------------------------------
+
+LinkedIn: [www.linkedin.com/in/husam-rahman]
+Email: []
+Github: [https://github.com/husamrahman]
