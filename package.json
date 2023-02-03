@@ -1,0 +1,24 @@
+{
+  "name": "bits-and-bites",
+  "version": "1.0.0",
+  "description": "Personal Newsletter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/husamrahman/bits-and-bites.git"
+  },
+  "author": "Husam Rahman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/husamrahman/bits-and-bites/issues"
+  },
+  "homepage": "https://github.com/husamrahman/bits-and-bites#readme",
+  "dependencies": {
+    "tsc": "^2.0.4",
+    "typescript": "^4.9.5",
+    "yarn": "^1.22.19"
+  }
+}
