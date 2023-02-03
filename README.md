@@ -24,7 +24,7 @@ This newsletter is just a documentation of things I'm learning and figuring out 
 
 <br />
 
-> This will most likely change with future iterations but this is the current structure of the newsletter ⬇️
+> 💡 This will most likely change with future iterations but this is the current structure of the newsletter
 
 <br />
 
@@ -50,12 +50,13 @@ This will most likely be a random photo of a pastry I had this week (yep weekly)
 
 ### -------------- \{ Reference Bits \} \--------------
 
-Current things I'm working on
+Current things I'm working on ⬇️
 
-#### ➡️ **Findur:**
+**Findur:**
 - Find your next home 10x faster: [https://findur.io]
 - Journey of Findur: [https://findur.journey.io/p/83763d]
-#### 📧 **Bits & Bites**:
+
+ **Bits & Bites**:
 - Newsletter: [https://buttondown.email/bitsandbites]
 - Github: [https://github.com/husamrahman/bits-and-bites]
 
@@ -63,5 +64,5 @@ Current things I'm working on
 
 ### ------------------ \{ Contact \} \------------------
 
-- LinkedIn: www.linkedin.com/in/husam-rahman
-- Email: husam@bitsandbites.io
+LinkedIn: www.linkedin.com/in/husam-rahman
+Email: husam@bitsandbites.io
