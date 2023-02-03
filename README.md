@@ -23,11 +23,12 @@ Glad to have you on board. If we haven't met before in person, I look forward to
 
 <br />
 
-
-> <br> This will most likely change with future iterations but this the current structure of the newsletter ⬇️'
-<br>
-
+> \
+> This will most likely change with future iterations but this the current structure of the newsletter ⬇️'
 <br />
+>
+
+
 
 #### \{ The Bits & Bites \} \-----------------------
 **[ 👨‍💻 Bits ]**
