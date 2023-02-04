@@ -34,7 +34,7 @@ This newsletter is just a documentation of things I'm learning and figuring out 
 Things I'm learning on this journey and/or trying to figure out.
 
 ```ts
-type Maybe<T> = T | null;
+type Maybe<T> = NonNullable<T> | undefined;;
 
 const withSomeCode: Maybe<string> = 'sometimes'
 ```
