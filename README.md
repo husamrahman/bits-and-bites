@@ -4,7 +4,7 @@ Glad to have you on board. If we haven't met before in person, I look forward to
 
 This newsletter is just a documentation of things I'm learning and figuring out as I navigate the world of software and the journey of building a tech startup with pastries sprinkled in.
 
-### -------------- \{ Summary \} \------------
+### ------------ \{ Summary \} \------------
 
 - #### **[ 👨‍👩‍👧 Personal ]**
     - Husband - Father to a beautiful daughter
@@ -28,7 +28,7 @@ This newsletter is just a documentation of things I'm learning and figuring out 
 
 <br />
 
-### -------------  \{ Bits & Bites \} \--------------
+### ------------  \{ Bits & Bites \} \------------
 #### --- **[ 👨‍💻 Bits ]** ---
 
 Things I'm learning on this journey and/or trying to figure out.
@@ -62,7 +62,7 @@ Current things I'm working on ⬇️
 
 <br />
 
-### ---------------- \{ Contact \} \----------------
+### ------------ \{ Contact \} \------------
 
 LinkedIn: www.linkedin.com/in/husam-rahman
 
