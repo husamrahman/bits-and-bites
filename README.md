@@ -53,8 +53,10 @@ This will most likely be a random photo of a pastry I had this week (yep weekly)
 Current things I'm working on ⬇️
 
 **Findur:**
-- Find your next home 10x faster: [https://findur.io]
-- Journey of Findur: [https://findur.journey.io/p/83763d]
+- Find your home 10x faster than browsing Zillow by filtering down 100's of listings based on commute times to all your places of interest in seconds, powered by Google Maps.
+    - Find your next home 10x faster: [https://findur.io]
+    - Journey of Findur: [https://findur.journey.io/p/83763d]
+    - Patent Pending IP: [File No: 17/944,253]
 
  **Bits & Bites**:
 - Newsletter: [https://buttondown.email/bitsandbites]
