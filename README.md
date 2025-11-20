@@ -7,7 +7,7 @@ This newsletter is just a documentation of things I'm learning and figuring out 
 ### ------------ \{ Summary \} \------------
 
 - #### **[ 👨‍👩‍👧 Personal ]**
-    - Husband - Father to a beautiful daughter
+    - Husband - Father to a beautiful daughter and son
     - Pastry Lover
     - Coffee Fiend
 - #### **[ 🧳  Work ]**
